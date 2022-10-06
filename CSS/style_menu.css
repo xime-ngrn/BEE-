@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Poppins&display=swap');
+	*{
+		margin: 0;
+		font-family:  sans-serif;
+    
+       
+	}
+	body{
+       background-color: #fff;
+		background-size: 100vw 100vh;
+	
+	}
+
+
+    .anuncio{
+        float: left;
+        background-color: rgb(232, 232, 232);
+        height: 500px;
+        width: 300px;
+        margin-top: 100px;
+        margin-left: 60px;
+        border-radius: 8px;
+        box-shadow: #000000;
+		
+     
+    }
+
+	.anuncio1{
+        float: left;
+        background-color: rgb(255, 255, 255);
+        height: 500px;
+        width: 300px;
+        margin-top: 60px;
+        margin-left: 155px;
+        border-radius: 8px;
+        box-shadow: #000000;
+		align-content: center;
+		text-align: center;
+     
+    }
+
+
+
+	.area{
+	font-size: 80px;
+	color: #000000;
+	margin-top: 50px;
+	text-align: center;
+	}
+
+	#btn{
+		text-align: center;
+		align-items: center;
+		
+	}
+
+	#btn1{
+		text-align: center;
+		align-items: center;
+		margin-top: 40px
+		
+	}
+
+	#b{
+		margin-left: 30px;
+	}
+	
+	p{
+		margin-left: 6px;
+		margin-top: 20px;
+		
+	}
+
+	.enlace{
+		color: #000000;
+		font-size: 15px;
+		text-decoration: none;
+	}
+
+	.enlace a:hover{
+		color: #ffffff;
+	}
+	
+	.contenido{
+		background-color: rgb(255, 255, 255);
+		height: 600px;
+		width: 1400px;
+		margin-left: 60px;
+		margin-top: 50px;
+		
+		
+	}
+	.card{
+		float: left;
+		margin-left: 60px;
+		margin-top: 50px;
+	}
+
+	.informacion{
+		background-color: #fbe261;
+		height: 500px;
+		width: 1100px;
+		margin-top: 60px;
+		margin-left: 260px;
+	}
+
+	.imagen{
+		height: 400px;
+		width: 300px;
+		background-color:rgb(255, 255, 255) ;
+		float:left ;
+		margin-top: 50px;
+		margin-left: 50px;
+	}
+
+	.info{
+		height: 400px;
+		width: 700px;
+		background-color: #fbe261;
+		float:left ;
+		margin-top: 50px;
+		margin-left: 50px;
+	}
+	.primero{
+		background-color: #fbe261;
+		width: 600px;
+		height: 50px;
+		margin-left: 50px;
+		margin-top: 15px;
+	}
+	.segundo{
+		background-color: #fbe261;
+		width: 600px;
+		height: 130px;
+		margin-left: 50px;
+		margin-top: 15px;
+	}
+
+	.tercero{
+		background-color: #fbe261;
+		width: 600px;
+		height: 60px;
+		margin-left: 50px;
+		margin-top: 15px;
+	}
+
+	.cuarto{
+		background-color: #fbe261;
+		width: 600px;
+		height: 70px;
+		margin-left: 50px;
+		margin-top: 15px;
+	}
+
+	.nombre{
+		width: 350px;
+		height: 50px;
+		background-color: #fbe261;
+		border:#000000 solid 2px;
+		float: left;
+		
+	}
+
+	.areas{
+		width: 235px;
+		height: 50px;
+		background-color: #fbe261;
+		border:#000000 solid 2px;
+		float: right;
+		margin-top: 0px;
+	}
+
+	.descripcion{
+		width: 600px;
+		height: 130px;
+		background-color: #fbe261;
+		border:#000000 solid 2px;
+	}
+
+	.encargados{
+		width: 350px;
+		height: 70px;
+		background-color: #fbe261;
+		border:#000000 solid 2px;
+		float: left;
+	}
+
+	.fecha{
+		width: 235px;
+		height: 70px;
+		background-color: #fbe261;
+		border:#000000 solid 2px;
+		float: right;
+		margin-top: 0px;
+	}
+
+	.lugar{
+		width: 350px;
+		height: 80px;
+		background-color: #fbe261;
+		border:#000000 solid 2px;
+		float: left;	
+		margin-top: 15px;
+	}
+
+	.horario{
+		width: 235px;
+		height: 80px;
+		background-color: #fbe261;
+		border:#000000 solid 2px;
+		float: right;
+		margin-top: 15px;
+	}
+
+	.usuario{
+		background-color: #efefef;
+		height: 400px;
+		width: 700px;
+		margin-top: 80px;
+		margin-left: 430px;
+	
+		align-items: center;
+		text-align: center;
+	}
+
+	.usuario1{
+		background-color: #efefef;
+		height: 515px;
+		width: 700px;
+		margin-top: 60px;
+		margin-left: 430px;
+	
+		align-items: center;
+		text-align: center;
+	}
+
+	.espacio{
+		height: 30px;
+		width: 600px;
+		border-radius: 4px;
+		background: #c0bebe;
+		border: 0;
+	}
+
+	.inicios{
+		background-color: #fbe261;
+		border-radius: 10px;
+		height: 50px;
+		width: 200px;
+		border: 0;
+		margin-left: 15px;
+	}
+
+	.infor{
+		text-align: justify;
+		width: 1000px;
+		margin-left: 240px;
+	}
+
+	.general{
+		height: 600px;
+		width: 1400px;
+		background-color: rgb(255, 255, 255);
+		margin-left: 30px;
+		margin-top: 0px;
+	}
+
+	.left{
+		height: 560px;
+		width: 450px;
+		background: #f1eeee;
+		border-radius: 10px;
+		overflow-y: scroll;
+		
+		
+	}
+
+	.general1{
+		background-color: #fbe261;
+		height: 500px;
+		width: 800px;
+		margin-left: 280px;
+	}
+
+	.left1{
+		height: 500px;
+		width: 300px;
+		background:#fbe261;
+		border-radius: 10px;
+			
+	}
+	.down{
+		height: 200px;
+		width: 300px;
+		border:#000000 solid 2px;
+		
+		
+	}
+	.up{
+		height: 300px;
+		width: 300px;
+		border:#000000 solid 2px;
+		
+		
+	}
+	
+	.right1{
+		height: 500px;
+		width: 450px;
+		background:#fbe261;
+		border-radius: 10px;
+		border:#000000 solid 2px;
+		float: left;
+	}

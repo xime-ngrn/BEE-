@@ -1,0 +1,33 @@
+.publicar{
+    background-color: #fbe261;
+    width: 500px;
+    height: 300px;
+    text-align:center;
+    margin:0px auto;
+
+    
+}
+
+#primera-des{
+    width: auto;
+    height: auto;
+}
+
+#enviar-1{
+    color: rgb(8, 8, 8);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#recibido{
+    background-color: #fbe261;
+    width: 500px;
+    height: 300px;
+    text-align:center;
+    margin:0px auto;
+
+}
